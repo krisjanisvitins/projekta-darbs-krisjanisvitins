@@ -10,11 +10,11 @@ var pievienot tās tabulā jaunā rindā. Pēctam, lietotājs var nolasīt piera
 ## Programmas darbība
 Programma strādā šādi:
 
-    1. Palaižot programmu, tiek nolasīts excel fails. Lietotājam tiek prasīts, vai lietotājs vēlas nolasīt datus vai pievienot jaunas izmaksas.
+1. Palaižot programmu, tiek nolasīts excel fails. Lietotājam tiek prasīts, vai lietotājs vēlas nolasīt datus vai pievienot jaunas izmaksas.
 
-    2. Ja lietotājs vēlas nolasīt datus, tiek prasīts, vai nolasīt visu tabulu, vai nolasīt izmaksas par noteiktu mēnesi vai kategoriju, vai mēnesi un kategoriju. Ja izvēlas mēnesi, tad ir jāievada attiecīgais mēnesis un tiek sasummētas visas izmaksas dotajā mēnesī. Ja izvēlas kategoriju, tad tiek sasummētas visas izmaksas noteiktajā kategorijā. Ja izvēlas kategoriju un mēnesi, tad lietotājs ievada vispirms mēnesi, tad kategoriju un tiek sasummētas visas izmaksas noteiktajā mēnesī un kategorijā.
+2. Ja lietotājs vēlas nolasīt datus, tiek prasīts, vai nolasīt visu tabulu, vai nolasīt izmaksas par noteiktu mēnesi vai kategoriju, vai mēnesi un kategoriju. Ja izvēlas mēnesi, tad ir jāievada attiecīgais mēnesis un tiek sasummētas visas izmaksas dotajā mēnesī. Ja izvēlas kategoriju, tad tiek sasummētas visas izmaksas noteiktajā kategorijā. Ja izvēlas kategoriju un mēnesi, tad lietotājs ievada vispirms mēnesi, tad kategoriju un tiek sasummētas visas izmaksas noteiktajā mēnesī un kategorijā.
 
-    3. Ja lietotājs vēlas ievadīt jaunus datus, tiek prasīts ievadīt pirmkārt, datumu (formāts YYYY.MM.DD), otrkārt, kategoriju (Pārtika; Transports; Iepirkšanās; Pakalpojumi; Dzīvošana; Atpūta; Cits), treškārt, aprakstu (var rakstīt brīvi) un ceturtkārt, izdevumu summu (XX.XX).
+3. Ja lietotājs vēlas ievadīt jaunus datus, tiek prasīts ievadīt pirmkārt, datumu (formāts YYYY.MM.DD), otrkārt, kategoriju (Pārtika; Transports; Iepirkšanās; Pakalpojumi; Dzīvošana; Atpūta; Cits), treškārt, aprakstu (var rakstīt brīvi) un ceturtkārt, izdevumu summu (XX.XX).
 
 ## Izmantotās bibliotēkas
 

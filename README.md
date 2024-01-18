@@ -20,8 +20,8 @@ Programma strādā šādi:
 
 Lai programma varētu funkcionēt, ir nepieciešamas pandas un openpyxl python bibliotēkas.
 
-Pandas izmanto datu manipulācijai un analīzei. Tā nodrošina datu struktūras, lai efektīvi uzglabātu un apstrādātu lielas datu kopas.
+**Pandas** izmanto datu manipulācijai un analīzei. Tā nodrošina datu struktūras, lai efektīvi uzglabātu un apstrādātu lielas datu kopas.
 
-Openpyxl izmanto excel failu lasīšanai un rakstīšanai. Tā ļauj veikt dažādas darbības ar excel failiem Python valodā.
+**Openpyxl** izmanto excel failu lasīšanai un rakstīšanai. Tā ļauj veikt dažādas darbības ar excel failiem Python valodā.
 
 Pandas bibliotēka programmā galvenokārt ir atbildīga par tabulas datu apstrādi, ievadi un nolasīšanu, kamēr openpyxl bibliotēka apstrādā pandas bibliotēkas veiktās excel faila lasīšanas, rakstīšanas un eksportēšanas darbības.
